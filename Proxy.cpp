@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 #include "Proxy.h"
-
+//added a new comment
 
 int Image::mImageCount=1;
 int ImageProxy::mProxyImageCount = 1;
