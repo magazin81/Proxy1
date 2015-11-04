@@ -15,7 +15,9 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	// Problem
 	//You need to support resource-hungry objects
-	cout<<"Example 1 ------------------"<<endl;
+//another comment
+in yui=21;
+cout<<"Example 1 ------------------"<<endl;
 	//usual
 	{
 		cout<<"###############"<<endl;
